@@ -1,0 +1,6 @@
+﻿cl : Command line warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+  winmain.cpp
+winmain.cpp(219): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+  FrustumCulling.vcxproj -> G:\TSTC Backup\Game 2353\Final\.\Debug\FrustumCulling.exe
+  FrustumCulling.vcxproj -> .\Debug\FrustumCulling.pdb (Full PDB)

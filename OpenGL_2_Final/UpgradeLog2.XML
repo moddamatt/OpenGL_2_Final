@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FrustumCulling">
+</Property><Property Name="Solution File" Value="K:\Files\code\book code\OpenGL Book Source\Chapter10\FrustumCulling\FrustumCulling.sln">
+</Property><Property Name="User Options File" Value="K:\Files\code\book code\OpenGL Book Source\Chapter10\FrustumCulling\FrustumCulling.suo">
+</Property><Property Name="Date" Value="Monday, July 15, 2013">
+</Property><Property Name="Time" Value="13:07 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="2" Project="" Source="FrustumCulling.sln" Description="Error creating backup file: K:\Files\code\book code\OpenGL Book Source\Chapter10\FrustumCulling\FrustumCulling.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="FrustumCulling.suo" Description="File successfully backed up as K:\Files\code\book code\OpenGL Book Source\Chapter10\FrustumCulling\FrustumCulling.suo.old">
+</Event><Event ErrorLevel="0" Project="FrustumCulling" Source="FrustumCulling.vcproj" Description="Converting project file 'K:\Files\code\book code\OpenGL Book Source\Chapter10\FrustumCulling\FrustumCulling.vcproj'.">
+</Event><Event ErrorLevel="1" Project="FrustumCulling" Source="FrustumCulling.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="1" Project="FrustumCulling" Source="FrustumCulling.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="FrustumCulling" Source="FrustumCulling.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="FrustumCulling" Source="FrustumCulling.vcproj" Description="MSB8012: $(TargetPath) ('K:\Files\code\book code\OpenGL Book Source\Chapter10\FrustumCulling\.\Debug\FrustumCulling.exe') does not match the Linker's OutputFile property value '.\Debug/FrustumCulling.exe' ('K:\Files\code\book code\OpenGL Book Source\Chapter10\FrustumCulling\Debug/FrustumCulling.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="FrustumCulling" Source="FrustumCulling.vcproj" Description="MSB8012: $(TargetPath) ('K:\Files\code\book code\OpenGL Book Source\Chapter10\FrustumCulling\.\Release\FrustumCulling.exe') does not match the Linker's OutputFile property value '.\Release/FrustumCulling.exe' ('K:\Files\code\book code\OpenGL Book Source\Chapter10\FrustumCulling\Release/FrustumCulling.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="FrustumCulling" Source="FrustumCulling.vcproj" Description="Done converting to new project file 'K:\Files\code\book code\OpenGL Book Source\Chapter10\FrustumCulling\FrustumCulling.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="FrustumCulling" Source="FrustumCulling.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FrustumCulling.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FrustumCulling.sln" Description="Converted">
+</Event></UpgradeLog>
